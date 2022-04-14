@@ -49,7 +49,7 @@ Read [Docs](https://saurabhy20.gitbook.io/princevcplayer/deployment/requirements
 > Those two vars are not Mandatory! You can leave them blank too. 
     
 <h4>Click the button below to deploy Prince Vc Bot  on Heroku!</h4>    
-<p><a href="https://vegetaxd.me/yukkimusicbot"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a></p>
+<p><a href="https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2Fsaurabhy20%2Fprincevcplayer&template=https%3A%2F%2Fgithub.com%2Fsaurabhy20%2Fprincevcplayer"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a></p>
  </details>
     
 ## Config Vars
